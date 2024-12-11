@@ -1,0 +1,27 @@
+.query-form-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .query-form {
+    border: 1px solid #2979e9;
+  }
+  
+  .form-title {
+    color: #032e5d;
+    font-weight: 600;
+  }
+  
+  .form-group label {
+    font-weight: 400;
+    color: #01060b;
+  }
+  
+  .form-control:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+  }
+  .btn{
+    margin-top: 8px;
+  }
